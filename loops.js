@@ -5,11 +5,11 @@
 // Hoera!
 // Hoera!
 // ==========================================
-const call = ["Hoera!"];
+//const call = ["Hoera!"];
 
-for (let i = 0; i < 3 ; i++) {
-    console.log(call[0]);
-}
+//for (let i = 0; i < 3 ; i++) {
+//    console.log(call[0]);
+//}
 
 
 // ==========================================
@@ -21,12 +21,14 @@ for (let i = 0; i < 3 ; i++) {
 // loop...
 // klaar!
  // ==========================================
-const word1 = ['loop'];
-const word2 = ['klaar!'];
+const word1 = ['loop...'];
 
-for (let i = 0; i < 4 ; i++) {
+for (let i = 0; i < 4; i++) {
     console.log(word1[0]);
+    if (i >=3)
+        console.log("klaar!")
 }
+
 
 // ==========================================
 // Opdracht 3. Maak een for-loop die van 0 tot 15 loopt. Voor ieder getal wordt in de console gelogd of het getal even of oneven is.
@@ -37,6 +39,8 @@ for (let i = 0; i < 4 ; i++) {
 // 3 is oneven
 // .... etc.
 // 15 is oneven
+
+
 
 // Tip: een getal is oneven als je het door 2 deelt en er blijft nog iets over. Een getal is even als je het deelt door 2 en er blijft niets over..
 // ==========================================
