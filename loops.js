@@ -40,6 +40,7 @@ for (let i = 0; i < 4; i++) {
 // .... etc.
 // 15 is oneven
 
+const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
 
 
 // Tip: een getal is oneven als je het door 2 deelt en er blijft nog iets over. Een getal is even als je het deelt door 2 en er blijft niets over..
