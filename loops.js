@@ -5,7 +5,11 @@
 // Hoera!
 // Hoera!
 // ==========================================
+const call = ["Hoera!"];
 
+for (let i = 0; i < 3 ; i++) {
+    console.log(call[0]);
+}
 
 
 // ==========================================
@@ -17,8 +21,12 @@
 // loop...
 // klaar!
  // ==========================================
+const word1 = ['loop'];
+const word2 = ['klaar!'];
 
-
+for (let i = 0; i < 4 ; i++) {
+    console.log(word1[0]);
+}
 
 // ==========================================
 // Opdracht 3. Maak een for-loop die van 0 tot 15 loopt. Voor ieder getal wordt in de console gelogd of het getal even of oneven is.
