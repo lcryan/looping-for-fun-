@@ -5,6 +5,13 @@
 // ==========================================
 
 const names = ["Henk", "Piet", "Fred", "Joop"];
+let dimNames = [];
+
+for(i = 0; i < names.length; i++) {
+    dimNames[i] = names[i] + "je";
+
+    console.log(dimNames[i]);
+}
 
 // Verwachtte uitkomsten:
 // Vóór het script zie je de originele waardes:
@@ -21,7 +28,7 @@ const names = ["Henk", "Piet", "Fred", "Joop"];
 // Zorg ervoor dat dit ook zou werken als de array wel 100 of 200 getallen zou bevatten!
 // ==========================================
 
-const numbers = [2, 4, 5, 29, 38];
+/*const numbers = [2, 4, 5, 29, 38];*/
 
 // Verwachtte uitkomsten:
 // Vóór het script zie je de originele waardes:
