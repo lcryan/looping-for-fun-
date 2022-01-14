@@ -1,11 +1,4 @@
-// ==========================================
-// Opdracht 1. Maak een for-loop die 3 keer "Hoera!" in de terminal logt
-// Verwachte uitkomsten:
-// Hoera!
-// Hoera!
-// Hoera!
-// ==========================================
-//const call = ["Hoera!"];
+/* Opdracht 1 */
 
 call = ["Hoera!"];
 
