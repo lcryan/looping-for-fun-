@@ -26,5 +26,4 @@ for (i = 0; i < squares.length; i++) {
     squares[i] = `Het volumen van ${squares[i]} is ${answer}`;
 }
 console.log(squares);
-
-
+/*End of code, thanks for checking*/
