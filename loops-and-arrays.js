@@ -20,9 +20,10 @@ console.log(numbers);
 // Opdracht 3
 
 const squares = [30, 2, 8, 24, 11];
+let y = 0;
 for (i = 0; i < squares.length; i++) {
     const answer = squares[i] **3
-    squares[i] = "Het volumen van" + "" + squares[i] + "" + "is" + "" + "" + answer;
+    squares[i] = `Het volumen van ${squares[i]} is ${answer}`;
 }
 console.log(squares);
 
