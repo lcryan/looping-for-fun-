@@ -1,4 +1,4 @@
-/* Opdracht 1 */
+/* Opdracht 1 De tekst van de opdrachten staat in de originele file */
 
 call = ["Hoera!"];
 

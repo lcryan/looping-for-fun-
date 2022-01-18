@@ -1,4 +1,4 @@
-// Opdracht 1
+// Opdracht 1 (sorry, de text staat nog in de originele file)
 
 const names = ["Henk", "Piet", "Fred", "Joop"];
 for(i = 0; i < names.length; i++) {
